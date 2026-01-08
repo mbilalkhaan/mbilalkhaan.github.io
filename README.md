@@ -1,4 +1,4 @@
-# Lab Guide: Tesla Fleet API + Home Assistant
+# Tesla Fleet API + Home Assistant
 
 
 ## 1. Summary
