@@ -1,8 +1,5 @@
 # Lab Guide: Tesla Fleet API + Home Assistant
 
-**Project:** Secure Local Control for Tesla Vehicles  
-**Deployment Date:** January 2026  
-**Complexity:** Intermediate (Requires GitHub & ECC Key Encryption)
 
 ## 1. Summary
 
