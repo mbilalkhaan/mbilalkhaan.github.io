@@ -61,3 +61,9 @@ Register your application at [developer.tesla.com](https://developer.tesla.com).
 To prevent accidental triggers (e.g., opening the trunk from your pocket):
 
 - **Disable Entities:** In HA, go to Entity Settings for Trunk/Frunk and select "Disabled."
+
+## 8 . Tesla Device in the HA portal
+  ![Tesla HA_Dashboard](./Images/HA_Portal.png)
+
+## 9. Tesla Developer Portal - API Usage details
+ ![Tesla API Usage](./Images/Tesla_API_Usage.png)
